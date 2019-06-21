@@ -1,0 +1,6 @@
+F:\Hai\CropCreate\WooCommerceAPI.Net\bin\Release\WooCommerceNET.dll
+F:\Hai\CropCreate\WooCommerceAPI.Net\bin\Release\WooCommerceNET.pdb
+F:\Hai\CropCreate\WooCommerceAPI.Net\bin\Release\Newtonsoft.Json.dll
+F:\Hai\CropCreate\WooCommerceAPI.Net\obj\Release\WooCommerceNET.dll
+F:\Hai\CropCreate\WooCommerceAPI.Net\obj\Release\WooCommerceNET.pdb
+F:\Hai\CropCreate\WooCommerceAPI.Net\obj\Release\WooCommerceNET.csprojResolveAssemblyReference.cache

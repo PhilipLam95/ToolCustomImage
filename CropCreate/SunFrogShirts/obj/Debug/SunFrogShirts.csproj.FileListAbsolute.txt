@@ -1,0 +1,53 @@
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\bin\Debug\AngleSharp.dll
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\bin\Debug\Http.dll
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\bin\Debug\Newtonsoft.Json.dll
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+D:\C#\Projects\SunfrogUploader\SunFrogShirts\bin\Debug\FuncLib.dll
+C:\Users\BachTuan\Desktop\LinhTM\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+C:\Users\BachTuan\Desktop\LinhTM\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+C:\Users\BachTuan\Desktop\LinhTM\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+C:\Users\BachTuan\Desktop\LinhTM\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+C:\Users\BachTuan\Desktop\LinhTM\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+F:\work\Work\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+F:\work\Work\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+F:\work\Work\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+F:\work\Work\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+F:\work\Work\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+C:\Users\dainguyen\Desktop\SunfrogUploader\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+C:\Users\dainguyen\Desktop\SunfrogUploader\SunfrogUploader\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+C:\Users\dainguyen\Desktop\SunfrogUploader\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+C:\Users\dainguyen\Desktop\SunfrogUploader\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+C:\Users\dainguyen\Desktop\SunfrogUploader\SunfrogUploader\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+E:\code c\lic\SunfrogUploader_roket\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+E:\code c\lic\SunfrogUploader_roket\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+E:\code c\lic\SunfrogUploader_roket\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+E:\code c\lic\SunfrogUploader_roket\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+E:\code c\lic\SunfrogUploader_roket\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+E:\code c\lic\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+E:\code c\lic\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+E:\code c\lic\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+E:\code c\lic\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+E:\code c\lic\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+I:\Downloads\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+I:\Downloads\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+I:\Downloads\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+I:\Downloads\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+I:\Downloads\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+H:\anh\New folder (3)\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+H:\anh\New folder (3)\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+H:\anh\New folder (3)\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+H:\anh\New folder (3)\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+H:\anh\New folder (3)\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+F:\Skype\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+F:\Skype\SunfrogUploader_rocket\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+F:\Skype\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.csprojResolveAssemblyReference.cache
+F:\Skype\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+F:\Skype\SunfrogUploader_rocket\SunFrogShirts\obj\Debug\SunFrogShirts.pdb
+F:\Hai\CropCreate\SunFrogShirts\bin\Debug\SunFrogShirts.dll
+F:\Hai\CropCreate\SunFrogShirts\bin\Debug\SunFrogShirts.pdb
+F:\Hai\CropCreate\SunFrogShirts\obj\Debug\SunFrogShirts.dll
+F:\Hai\CropCreate\SunFrogShirts\obj\Debug\SunFrogShirts.pdb

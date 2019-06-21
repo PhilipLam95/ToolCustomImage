@@ -1,0 +1,2 @@
+E:\code c\lic\SunfrogUploader_roket\SunFrogShirts\obj\Release\SunFrogShirts.csprojResolveAssemblyReference.cache
+E:\code c\lic\SunfrogUploader_rocket\SunFrogShirts\obj\Release\SunFrogShirts.csprojResolveAssemblyReference.cache

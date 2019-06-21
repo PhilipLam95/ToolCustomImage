@@ -1,0 +1,5 @@
+F:\Hai\CropCreate\WooCommerceAPI.Net\bin\Debug\WooCommerceNET.dll
+F:\Hai\CropCreate\WooCommerceAPI.Net\bin\Debug\WooCommerceNET.pdb
+F:\Hai\CropCreate\WooCommerceAPI.Net\obj\Debug\WooCommerceNET.dll
+F:\Hai\CropCreate\WooCommerceAPI.Net\obj\Debug\WooCommerceNET.pdb
+F:\Hai\CropCreate\WooCommerceAPI.Net\bin\Debug\Newtonsoft.Json.dll

@@ -1,0 +1,12 @@
+F:\Hai\CropCreate\MyLib\bin\Release\MyLib.dll
+F:\Hai\CropCreate\MyLib\bin\Release\MyLib.pdb
+F:\Hai\CropCreate\MyLib\bin\Release\AngleSharp.dll
+F:\Hai\CropCreate\MyLib\bin\Release\FuncLib.dll
+F:\Hai\CropCreate\MyLib\bin\Release\Http.dll
+F:\Hai\CropCreate\MyLib\bin\Release\MySql.Data.dll
+F:\Hai\CropCreate\MyLib\bin\Release\Newtonsoft.Json.dll
+F:\Hai\CropCreate\MyLib\bin\Release\WooCommerceNET.dll
+F:\Hai\CropCreate\MyLib\bin\Release\WooCommerceNET.pdb
+F:\Hai\CropCreate\MyLib\obj\Release\MyLib.csprojResolveAssemblyReference.cache
+F:\Hai\CropCreate\MyLib\obj\Release\MyLib.dll
+F:\Hai\CropCreate\MyLib\obj\Release\MyLib.pdb
